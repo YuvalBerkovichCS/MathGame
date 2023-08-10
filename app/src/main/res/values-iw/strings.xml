@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פרויקט מתמטיקה</string>
+    <string name="_30s">שניות</string>
+
+    <string name="let_s_do_it">בוא נעשה את זה!</string>
+    <string name="date_time">Date_Time</string>
+
+    <string name="score">ניקוד</string>
+    <string name="pass_require">סיסמה נחוצה</string>
+    <string name="enter_valid_user">בבקשה הכנס יוזר תקין</string>
+    <string name="choose_email">נא בחר אימייל:</string>
+    <string name="math_game">משחק מתמטיקה</string>
+    <string name="more_math_games">עוד משחקי מתמטיקה</string>
+    <string name="show_my_records">הראה שיאיים </string>
+    <string name="sign_up">הירשם</string>
+    <string name="username">משתמש</string>
+    <string name="email">אימייל</string>
+    <string name="age">גיל</string>
+    <string name="location">מיקום</string>
+    <string name="password">סיסמה</string>
+    <string name="re_password">סיסמה חוזרת</string>
+    <string name="register">--הירשם--</string>
+    <string name="email_sign_in">אימייל</string>
+    <string name="password_sign_in">סיסמה</string>
+    <string name="login">היתחבר</string>
+    <string name="register_sign_in">הירשם</string>
+    <string name="contact_for_support">צור קשר לתמיכה</string>
+    <string name="game_over">-נגמר המשחק -</string>
+    <string name="your_score">הניקוד שלך</string>
+    <string name="play_again">שחק שוב</string>
+    <string name="back">חזור</string>
+    <string name="sign_in">כניסה למערכת</string>
+    <string name="score_update">הניקוד עודכן בהצלחה</string>
+    <string name="failed_score">נכשל לעדכן ניקוד</string>
+    <string name="no_user">אין משתמש מערכת</string>
+    <string name="login_suc">התחבר בהצלחה</string>
+    <string name="login_fail">נכשל להתחבר</string>
+    <string name="reg_in_suc">המשתמש נרשם בהצלחה!</string>
+    <string name="email_exist">אימייל כבר קיים!</string>
+    <string name="full_name">חובה שם מלא!</string>
+    <string name="email_must">חובה אימייל!</string>
+    <string name="pass_must">חובה סיסמה!</string>
+    <string name="re_pass_must">חובה סיסמה חוזרת!</string>
+    <string name="val_email">בבקשה לשים אימייל תקין</string>
+    <string name="min_pass">אורך מינימלי 8 תווים</string>
+    <string name="no_match_pass">הסיסמה והסיסמה החוזרת לא תואמים!</string>
+    <string name="correct">תשובה נכונה!</string>
+    <string name="wrong">תשובה שגויה</string>
+    <string name="time_up">תם הזמן!</string>
+    <string name="date_label">תאריך: %1$s</string>
+    <string name="score_label">הניקוד שלך: %1$s</string>
+    <string name="seconds">שניות</string>
+    <string name="type_your_email">אנא הכנס אימייל</string>
+    <string name="type_your_password">אנא הכנס סיסמה</string>
+    <string name="sign_in_2">היכנס למערכת</string>
+    <string name="not_registered_yet_sign_up">לא רשום עדיין? תירשם כאן!</string>
+    <string name="contact_support">לחץ לתמיכה!</string>
+    <string name="difficulty">רמת קושי: </string>
+    <string name="difficulty_label">רמת קושי: %1$s</string>
+    <string name="selec_diffic">בחר רמת קושי</string>
+    <string name="select_difficulty">בחר רמת קושי</string>
+    <string-array name="difficulty_levels">
+        <item>קל</item>
+        <item>בינוני</item>
+        <item>קשה</item>
+    </string-array>
+    <string name="difficulty_easy">קל</string>
+    <string name="difficulty_medium">בינוני</string>
+    <string name="difficulty_hard">קשה</string>
+    <string name="share_score">שתף את התוצאה</string>
+
+</resources>

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MathProject</string>
+    <string name="_30s">30s</string>
+    <string name="let_s_do_it">Let\'s Do It!</string>
+    <string name="date_time">Date_Time</string>
+    <string name="score">score</string>
+    <string name="pass_require">Password is required</string>
+    <string name="enter_valid_user">Please enter a valid username!</string>
+    <string name="choose_email">Choose an Email client :</string>
+    <string name="math_game">Math Game</string>
+    <string name="more_math_games">More Math\n Games!</string>
+    <string name="show_my_records">show my records!</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="location">Location</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="register">--REGISTER--</string>
+    <string name="email_sign_in">Email</string>
+    <string name="password_sign_in">Password</string>
+    <string name="login">Login</string>
+    <string name="register_sign_in">register</string>
+    <string name="contact_for_support">contact for support</string>
+    <string name="game_over">- Game Over -</string>
+    <string name="your_score">Your Score</string>
+    <string name="play_again">Play Again</string>
+    <string name="back">Back</string>
+    <string name="sign_in">Sign in</string>
+    <string name="score_update">Score updated successfully</string>
+    <string name="failed_score">Failed to update score</string>
+    <string name="no_user">No current user</string>
+    <string name="login_suc">Login successfully</string>
+    <string name="login_fail">Login Failed</string>
+    <string name="reg_in_suc">User has been registered successfully!</string>
+    <string name="email_exist">Email already exists!</string>
+    <string name="full_name">Full name is required!</string>
+    <string name="email_must">Email is required!</string>
+    <string name="pass_must">Password is required!</string>
+    <string name="re_pass_must">Re-password is required!</string>
+    <string name="val_email">Please provide valid email!</string>
+    <string name="min_pass">Min password length should be 8 characters!</string>
+    <string name="no_match_pass">Password and Re-password do not match!</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+    <string name="time_up">Time Up !</string>
+    <string name="score_label">your score is: %1$s</string>
+    <string name="date_label">date: %1$s</string>
+    <string name="difficulty_label">difficulty: %1$s</string>
+
+    <string name="seconds">s</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="sign_in_2">Sign In</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet, Sign Up!</string>
+    <string name="contact_support">Contact support!</string>
+    <string name="difficulty">difficulty</string>
+    <string name="selec_diffic">Select Difficulty</string>
+    <string name="select_difficulty">Select Difficulty</string>
+    <string-array name="difficulty_levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="share_score">Share Your Score</string>
+
+</resources>
